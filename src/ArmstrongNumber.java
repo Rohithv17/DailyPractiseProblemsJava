@@ -1,4 +1,5 @@
-public class ArmstrongNumber {
+public class ArmstrongNumber {   // if sum of cubes of all digits in the given number itself equals to the number itself , it is an armstrong number ex: 153 = 1^3+5^3+3^3
+
     void checkNum(int num) {
         int ognumber=num;
         double result=0;
